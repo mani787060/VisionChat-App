@@ -26,12 +26,12 @@ LuminaVision is a professional-grade Multimodal AI application that bridges the 
    cd VisionChat-App
 
 2. **Install dependencies:**
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. **Run the Application:**
-
-streamlit run app.py   
+   ```bash
+   streamlit run app.py   
 
 ## 🧠 Technical Insight: Accuracy & Confidence
 The engine uses Beam Search decoding to ensure high-precision outputs. By exploring multiple word-sequence paths, the model selects the narrative with the highest cumulative probability, significantly reducing "hallucinations" common in smaller AI models.
