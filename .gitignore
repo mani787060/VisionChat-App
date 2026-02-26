@@ -1,0 +1,15 @@
+# Ignore the massive AI model folders
+kaggle/
+models/
+checkpoint/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore local environment settings
+.env
+venv/
+env/
+.streamlit/config.toml
