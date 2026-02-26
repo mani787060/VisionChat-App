@@ -35,3 +35,15 @@ LuminaVision is a professional-grade Multimodal AI application that bridges the 
 
 ## 🧠 Technical Insight: Accuracy & Confidence
 The engine uses Beam Search decoding to ensure high-precision outputs. By exploring multiple word-sequence paths, the model selects the narrative with the highest cumulative probability, significantly reducing "hallucinations" common in smaller AI models.
+
+
+---
+### 🎥 System Demonstration
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/cf9061cf-e511-4e92-b5a6-22b510f65421" width="100%" height="auto" controls>
+    <source src="https://github.com/user-attachments/assets/cf9061cf-e511-4e92-b5a6-22b510f65421" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+> **Note:** This demonstration shows the LuminaVision engine performing real-time image analysis and Visual Question Answering (VQA).
